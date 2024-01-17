@@ -26,7 +26,7 @@ export default function TestUploader() {
         <div className="flex w-[400px] flex-col p-4 gap-4">
           <div>
             <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
-              Navn til organisajon
+              Navn til organisajonn
             </label>
             <input
               type="text"
